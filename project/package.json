@@ -1,0 +1,10 @@
+{
+    "name": "project",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "./src/index.js",
+    "dependencies": {
+        
+    }
+}
